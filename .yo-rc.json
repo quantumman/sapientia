@@ -1,0 +1,7 @@
+{
+  "generator-react-webpack": {
+    "appName": "sapientia",
+    "style": "less",
+    "postcss": true
+  }
+}
