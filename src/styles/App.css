@@ -19,3 +19,16 @@ body {
   border-width: 1px 0;
   background: #666;
 }
+
+.left-container,
+.middle-container,
+.right-container {
+  float: left;
+}
+.left-container {
+  width: 150px;
+}
+.middle-container,
+.right-container {
+  width: 44.1%;
+}
